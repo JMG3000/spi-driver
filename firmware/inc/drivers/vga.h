@@ -1,0 +1,1 @@
+// create a vga driver header file for a simple embedded system
